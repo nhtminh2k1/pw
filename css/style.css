@@ -11,6 +11,11 @@
     padding-top: 3%;
     margin-right: 15%;
 }
+hr {
+    background-color: black;
+    border-style: none;
+    height: 2px;
+}
 
 h1,
 h2,
